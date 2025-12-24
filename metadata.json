@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Prompt Generator",
+  "description": "Upload an image to generate a detailed and creative prompt, perfect for use with AI image generation models. This tool analyzes your image and creates a descriptive text prompt to help you create similar or enhanced visuals.",
+  "requestFramePermissions": []
+}
